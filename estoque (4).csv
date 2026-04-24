@@ -1,0 +1,43 @@
+produto,estoque_max,estoque_atual,lead_time_reposicao,custo_produto
+Tomate Pelado Inteiro,684,30,3,0.6
+Tomate Triturado,1008,12,10,0.57
+Tomate Cereja em Conserva,570,9,7,1.12
+Grão-de-Bico Cozido,1045,0,10,0.82
+Feijão Vermelho Cozido,768,111,7,0.86
+Feijão Branco Cozido,637,21,3,0.85
+Lentilhas Cozidas,400,11,10,0.91
+Ervilhas em Conserva,420,64,2,0.42
+Feijão Frade Cozido,528,77,10,0.61
+Pimento Vermelho Assado,490,108,2,1.46
+Pimento Amarelo em Tiras,350,70,14,1.67
+Jalapeños Fatiados,450,67,10,1.12
+Azeitona Preta s/ Caroço,300,2,7,1.25
+Azeitona Verde Recheada,459,6,14,1.05
+Azeitona Kalamata,248,55,5,1.73
+Cogumelo Paris Inteiro,468,38,2,1.06
+Cogumelo Paris Fatiado,459,24,3,0.92
+Cogumelo Portobello,275,18,3,1.92
+Corações de Alcachofra,231,20,3,1.93
+Alcaparras em Salmoura,549,1,3,0.85
+Milho Doce em Grão,497,59,10,0.47
+Milho Baby,459,83,2,1.41
+Palmito em Rodelas,192,0,10,1.84
+Pepino em Pickle,560,99,3,1.03
+Mix de Pickles,424,104,7,1.2
+Cebola Pickled,416,41,2,1.26
+Beterraba em Fatias,935,198,3,0.62
+Beterraba Baby Inteira,495,20,2,1.35
+Espargos em Conserva,374,15,7,2.03
+Coração de Couve-flor,600,106,7,1.66
+Couve Roxa Pickled,256,4,14,1.42
+Tomate Seco em Azeite,156,10,5,2.79
+Beringela Grelhada,64,6,5,2.47
+Abóbora em Conserva,121,25,3,1.63
+Curgete Marinada,105,8,14,1.8
+Alho em Azeite,312,5,14,1.99
+Cogumelo Trufa,286,12,14,5.29
+Caldo de Legumes Concentrado,528,23,14,1.44
+Sopa de Tomate Pronta,330,44,2,1.16
+Creme de Legumes,495,66,10,1.48
+Nabo em Conserva,36,34,5,0.64
+Rabanete Pickled,418,36,10,1.05
